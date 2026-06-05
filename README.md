@@ -7,14 +7,14 @@ In Tic-Tac-Toe we need to determined which player of the two (X or O) has the tu
 ### Determine the winning patterns
 
 0   |  1  |  2
-    |     |    
+
 ____|_____|____
-    |     |
+
 3   |  4  |  5
+
 ____|_____|____
+
 6   |  7  |  8
-    |     |    
-    |     |    
 
 Player wins if it forms:
 1. horizontal pattern: [0, 1, 2], [3, 4, 5], [6, 7, 8]
